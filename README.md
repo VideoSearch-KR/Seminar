@@ -1,5 +1,5 @@
 # Seminar
-[과제관리시트](https://docs.google.com/spreadsheets/d/1z9zoooDnXW7zaBVk7YA9o_Qs4VByk7czE6L94OgJEKw/edit#gid=857925796)에서 자세한 정보를 확인하실 수 있습니다.
+More information can be found on the [Link](https://docs.google.com/spreadsheets/d/1z9zoooDnXW7zaBVk7YA9o_Qs4VByk7czE6L94OgJEKw/edit#gid=857925796).
 
 ### Seminar List
 | Week | Institute | Paper Title | Date | Video | PPT |
