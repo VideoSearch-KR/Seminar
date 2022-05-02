@@ -6,6 +6,8 @@ More information can be found on the [Link](https://docs.google.com/spreadsheets
 |:---:|:---:|:---:|:---:|:---:|:---:|
 | 1 | Sejong <br /> (Yukyung Choi) | [Removing the Background by Adding the Background: Towards Background Robust Self-Supervised Video Representation Learning](https://openaccess.thecvf.com/content/CVPR2021/html/Wang_Removing_the_Background_by_Adding_the_Background_Towards_Background_Robust_CVPR_2021_paper.html) | 2022.04.25 | [YouTube](https://www.youtube.com/watch?v=Xy83_lzzWUQ&list=PLrtM9Gt-UgEv9xEfDa4ZnujVLoweUNP30&index=17) | [PDF](https://github.com/VideoSearch-KR/Seminar/blob/main/SeminarNote/20220425_Removing%20the%20Background%20by%20Adding%20the%20Background%20%20Towards%20Background%20Robust%20Self-Supervised%20Video%20Representation%20Learning.pdf) |
 | 1 | Sejong <br /> (Yukyung Choi) | [STRNN: End-to-end deep learning framework for video partial copy detection](https://iopscience.iop.org/article/10.1088/1742-6596/1237/2/022112/meta) | 2022.04.25 | [YouTube](https://www.youtube.com/watch?v=ym80xp6C3Yk&list=PLrtM9Gt-UgEv9xEfDa4ZnujVLoweUNP30&index=18) | [PDF](https://github.com/VideoSearch-KR/Seminar/blob/main/SeminarNote/20220425_STRNN%20End-to-end%20deep%20learning%20framework%20for%20video%20partial%20copy%20detection.pdf) |
+| 2 | Chung-Ang <br /> (Jongwon Choi) | [A Simple Framework for Contrastive Learning of Visual Representations](https://arxiv.org/abs/2002.05709) | 2022.05.02 | [YouTube](https://www.youtube.com/watch?v=mu-lTQmIDyo&list=PLrtM9Gt-UgEv9xEfDa4ZnujVLoweUNP30&index=20) | # |
+
 
 ### Seminar List (year 1)
 | Week | Institute | Paper Title | Date | Video | PPT |
