@@ -9,6 +9,8 @@ More information can be found on the [Link](https://docs.google.com/spreadsheets
 | 2 | Chung-Ang <br /> (Jongwon Choi) | [A Simple Framework for Contrastive Learning of Visual Representations](https://arxiv.org/abs/2002.05709) | 2022.05.02 | [YouTube](https://www.youtube.com/watch?v=mu-lTQmIDyo&list=PLrtM9Gt-UgEv9xEfDa4ZnujVLoweUNP30&index=19) | # |
 | 3 | Chung-Ang <br /> (Yoonsik Cho) | [Less is More: ClipBERT for Video-and-Language Learning via Sparse Sampling](https://arxiv.org/abs/2102.06183) | 2022.05.09 | [YouTube](https://www.youtube.com/watch?v=s8fVYh-O4_0&list=PLrtM9Gt-UgEv9xEfDa4ZnujVLoweUNP30&index=20) | # |
 | 4 | University-of-Seoul <br /> (Kyungwoo Song) | [Gradient Matching for Domain Generalization](https://arxiv.org/abs/2104.09937)<br /> [In Search of Lost Domain Generalization](https://arxiv.org/abs/2007.01434)<br /> [WILDS 1.2v](http://proceedings.mlr.press/v139/koh21a/koh21a.pdf)| 2022.05.16 | [YouTube](https://www.youtube.com/watch?v=h0lpXerKCU8&list=PLrtM9Gt-UgEv9xEfDa4ZnujVLoweUNP30&index=21) | [PDF](https://github.com/VideoSearch-KR/Seminar/blob/main/SeminarNote/20220314_Gradient%20Matching%20for%20Domain%20Generalization.pdf) |
+| 5 | Sejong <br /> (Cheol Jeong) | [SCH-GAN: Semi-supervised Cross-modal Hashing by Generative Adversarial Network](https://arxiv.org/abs/1802.02488) | 2021.12.06 | [YouTube](https://www.youtube.com/watch?v=b-7O7xcYLjQ&list=PLrtM9Gt-UgEv9xEfDa4ZnujVLoweUNP30&index=22) | [PDF](https://github.com/VideoSearch-KR/Seminar/blob/main/SeminarNote/20220523_SCH-GAN%2C%20Semi-Supervised%20Cross-Modal%20Hashing%20by%20Generative%20Adversarial%20Network.pdf) |
+
 
 ### Seminar List (year 1)
 | Week | Institute | Paper Title | Date | Video | PPT |
