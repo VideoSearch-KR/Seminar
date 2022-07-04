@@ -14,6 +14,7 @@ More information can be found on the [Link](https://docs.google.com/spreadsheets
 | 7 | Gachon <br /> (Kiho Choi) | [DVC: An End-to-end Deep Video Compression Framework](https://arxiv.org/abs/1812.00101) | 2022.06.07 | [YouTube](https://www.youtube.com/watch?v=Eikzt9ixtd4&list=PLrtM9Gt-UgEv9xEfDa4ZnujVLoweUNP30&index=25) | [PDF](https://github.com/VideoSearch-KR/Seminar/blob/main/SeminarNote/20220607_DVC-An%20End-to-end%20Deep%20Video%20Compression%20Framework.pdf) |
 | 8 | Sejong <br /> (Yukyung Choi) | [Hierarchical Self supervised Representation Learning for Movie Understanding](https://arxiv.org/abs/2204.03101) | 2022.06.27 | [YouTube](https://www.youtube.com/watch?v=OGKRxoQ4Ga4&list=PLrtM9Gt-UgEv9xEfDa4ZnujVLoweUNP30&index=25) | # |
 | 8 | Sejong <br /> (Yukyung Choi) | [Less Is More: Learning Highlight Detection From Video Duration](https://arxiv.org/abs/1903.00859) | 2022.06.27 | [YouTube](https://www.youtube.com/watch?v=WX-B_F2ZP_w&list=PLrtM9Gt-UgEv9xEfDa4ZnujVLoweUNP30&index=26) | # |
+| 9 | Chung-Ang <br /> (Jongwon Choi) | [NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis](https://arxiv.org/abs/2003.08934) | 2022.07.04 | [YouTube](https://www.youtube.com/watch?v=Y-bEHQs9CYQ&list=PLrtM9Gt-UgEv9xEfDa4ZnujVLoweUNP30&index=27) | # |
 
 ### Seminar List (year 1)
 | Week | Institute | Paper Title | Date | Video | PPT |
