@@ -15,6 +15,8 @@ More information can be found on the [Link](https://docs.google.com/spreadsheets
 | 8 | Sejong <br /> (Yukyung Choi) | [Hierarchical Self supervised Representation Learning for Movie Understanding](https://arxiv.org/abs/2204.03101) | 2022.06.27 | [YouTube](https://www.youtube.com/watch?v=OGKRxoQ4Ga4&list=PLrtM9Gt-UgEv9xEfDa4ZnujVLoweUNP30&index=25) | # |
 | 8 | Sejong <br /> (Yukyung Choi) | [Less Is More: Learning Highlight Detection From Video Duration](https://arxiv.org/abs/1903.00859) | 2022.06.27 | [YouTube](https://www.youtube.com/watch?v=WX-B_F2ZP_w&list=PLrtM9Gt-UgEv9xEfDa4ZnujVLoweUNP30&index=26) | # |
 | 9 | Chung-Ang <br /> (Jongwon Choi) | [NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis](https://arxiv.org/abs/2003.08934) | 2022.07.04 | [YouTube](https://www.youtube.com/watch?v=Y-bEHQs9CYQ&list=PLrtM9Gt-UgEv9xEfDa4ZnujVLoweUNP30&index=27) | # |
+| 10 | Chung-Ang <br /> (Yoonsik Cho) | [Learning Transferable Visual Models From Natural Language Supervision
+](https://arxiv.org/abs/2103.00020) | 2022.07.11 | [YouTube](https://www.youtube.com/watch?v=T09WhNUI9QU&list=PLrtM9Gt-UgEv9xEfDa4ZnujVLoweUNP30&index=28) | # |
 
 ### Seminar List (year 1)
 | Week | Institute | Paper Title | Date | Video | PPT |
