@@ -17,6 +17,8 @@ More information can be found on the [Link](https://docs.google.com/spreadsheets
 | 9 | Chung-Ang <br /> (Jongwon Choi) | [NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis](https://arxiv.org/abs/2003.08934) | 2022.07.04 | [YouTube](https://www.youtube.com/watch?v=Y-bEHQs9CYQ&list=PLrtM9Gt-UgEv9xEfDa4ZnujVLoweUNP30&index=27) | # |
 | 10 | Chung-Ang <br /> (Yoonsik Cho) | [Learning Transferable Visual Models From Natural Language Supervision](https://arxiv.org/abs/2103.00020) | 2022.07.11 | [YouTube](https://www.youtube.com/watch?v=T09WhNUI9QU&list=PLrtM9Gt-UgEv9xEfDa4ZnujVLoweUNP30&index=28) | # |
 | 11 | University-of-Seoul <br /> (Kyungwoo Song) | [Robust Fine-tuning of Zero-Shot models](https://arxiv.org/abs/2109.01903) | 2022.07.18 | [YouTube](https://www.youtube.com/watch?v=D2Rp2jh11bg&list=PLrtM9Gt-UgEv9xEfDa4ZnujVLoweUNP30&index=29) | [PDF](https://github.com/VideoSearch-KR/Seminar/blob/main/SeminarNote/20220718_robust_fine_tuning_of_zero_shot_models.pdf) |
+| 12 | Sejong <br /> (Cheol Jeong) | [Object Relational Graph with Teacher-Recommended Learning for Video Captioning
+](https://arxiv.org/abs/2002.11566) | 2022.07.25 | [YouTube](https://www.youtube.com/watch?v=a3bCSR1t84s&list=PLrtM9Gt-UgEv9xEfDa4ZnujVLoweUNP30&index=30) | [PDF](https://github.com/VideoSearch-KR/Seminar/blob/main/SeminarNote/20220725_Object%20Relational%20Graph%20with%20Teacher-Recommended%20Learning%20for%20Video%20Captioning.pdf) |
 
 
 ### Seminar List (year 1)
