@@ -24,6 +24,9 @@ More information can be found on the [Link](https://docs.google.com/spreadsheets
 | 16 | Chung-Ang <br /> (Jongwon Choi) | [Exploring Temporal Coherence for More General Video Face Forgery Detection](https://arxiv.org/abs/2108.06693) | 2022.08.22 | [YouTube](https://www.youtube.com/watch?v=cv6w9QbwEUY&list=PLrtM9Gt-UgEv9xEfDa4ZnujVLoweUNP30&index=34) | # |
 | 17 | Chung-Ang <br /> (Yoonsik Cho) | [COTS: Collaborative Two-Stream Vision-Language Pre-Training Model for Cross-Modal Retrieval](https://arxiv.org/abs/2204.07441) | 2022.08.29 | [YouTube](https://www.youtube.com/watch?v=gktdhi_5PJk&list=PLrtM9Gt-UgEv9xEfDa4ZnujVLoweUNP30&index=35) | [PPT](https://github.com/VideoSearch-KR/Seminar/blob/main/SeminarNote/220829_COTS%20Collaborative%20Two-Stream%20Vision-Language%20Pre-Training%20Model.pptx) |
 | 18 | University-of-Seoul <br /> (Kyungwoo Song) | [Dataset Condensation with Gradient Matching](https://arxiv.org/pdf/2006.05929.pdf) | 2022.09.05 | [YouTube](https://www.youtube.com/watch?v=4oCLvZ9DMmA&list=PLrtM9Gt-UgEv9xEfDa4ZnujVLoweUNP30&index=36) | [PDF](https://github.com/VideoSearch-KR/Seminar/blob/main/SeminarNote/20220502_DatasetCondensationByGradientMatching_YongTaekLim.pdf) |
+| 19 | Sejong <br /> (Cheol Jeong) | [Open-book Video Captioning with Retrieve-Copy-Generate Network](https://arxiv.org/abs/2103.05284) | 2022.09.13 | [YouTube](https://www.youtube.com/watch?v=x6ho-G4tw5c&list=PLrtM9Gt-UgEv9xEfDa4ZnujVLoweUNP30&index=37) | [PDF](https://github.com/VideoSearch-KR/Seminar/blob/main/SeminarNote/20220913_Paper%20Review_Open-book%20Video%20Captioning%20with%20Retrieve-Copy-Generate%20Network.pdf) |
+
+
 
 ### Seminar List (year 1)
 | Week | Institute | Paper Title | Date | Video | PPT |
