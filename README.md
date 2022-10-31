@@ -28,6 +28,8 @@ More information can be found on the [Link](https://docs.google.com/spreadsheets
 | 20 | Sejong <br /> (Jinyoung Lee) | [Learning When and Where to Zoom with Deep Reinforcement Learning](https://arxiv.org/abs/2003.00425) | 2022.09.19 | [YouTube](https://www.youtube.com/watch?v=SiCU9QyajJM&list=PLrtM9Gt-UgEv9xEfDa4ZnujVLoweUNP30&index=38) | [PDF](https://github.com/VideoSearch-KR/Seminar/blob/main/SeminarNote/20220919_Reinforcement%20for%20Super-Resolution.pdf) |
 | 21 | Gachon <br /> (Kiho Choi) | [Learning to Compress Videos without Computing Motion](https://www.sciencedirect.com/science/article/pii/S0923596522000029) | 2022.09.26 | [YouTube](https://www.youtube.com/watch?v=tHwlNLb9X4M&list=PLrtM9Gt-UgEv9xEfDa4ZnujVLoweUNP30&index=39) | # |
 | 22 | Sejong <br /> (Yukyung Choi) | [e-CLIP: Large-Scale Vision-Language Representation Learning in E-commerce](https://arxiv.org/abs/2207.00208) | 2022.10.05 | [YouTube](https://www.youtube.com/watch?v=gjE6SlyXg5E&list=PLrtM9Gt-UgEv9xEfDa4ZnujVLoweUNP30&index=40) | # |
+| 23 | Chung-Ang <br /> (Jongwon Choi) | [Distilling Audio-Visual Knowledge by Compositional Contrastive Learning](https://arxiv.org/abs/2104.10955) | 2022.10.31 | [YouTube](https://www.youtube.com/watch?v=0qOHZyZ7LGk&list=PLrtM9Gt-UgEv9xEfDa4ZnujVLoweUNP30&index=41) | # |
+
 
 ### Seminar List (year 1)
 | Week | Institute | Paper Title | Date | Video | PPT |
