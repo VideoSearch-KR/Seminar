@@ -29,6 +29,7 @@ More information can be found on the [Link](https://docs.google.com/spreadsheets
 | 21 | Gachon <br /> (Kiho Choi) | [Learning to Compress Videos without Computing Motion](https://www.sciencedirect.com/science/article/pii/S0923596522000029) | 2022.09.26 | [YouTube](https://www.youtube.com/watch?v=tHwlNLb9X4M&list=PLrtM9Gt-UgEv9xEfDa4ZnujVLoweUNP30&index=39) | # |
 | 22 | Sejong <br /> (Yukyung Choi) | [e-CLIP: Large-Scale Vision-Language Representation Learning in E-commerce](https://arxiv.org/abs/2207.00208) | 2022.10.05 | [YouTube](https://www.youtube.com/watch?v=gjE6SlyXg5E&list=PLrtM9Gt-UgEv9xEfDa4ZnujVLoweUNP30&index=40) | # |
 | 23 | Chung-Ang <br /> (Jongwon Choi) | [Distilling Audio-Visual Knowledge by Compositional Contrastive Learning](https://arxiv.org/abs/2104.10955) | 2022.10.31 | [YouTube](https://www.youtube.com/watch?v=0qOHZyZ7LGk&list=PLrtM9Gt-UgEv9xEfDa4ZnujVLoweUNP30&index=41) | # |
+| 24 | Chung-Ang <br /> (Yoonsik Cho) | [CLIP4Clip: An Empirical Study of CLIP for End to End Video Clip Retrieval](https://arxiv.org/abs/2104.08860) | 2022.11.07 | [YouTube](https://www.youtube.com/watch?v=qegvv31Qu-Y&list=PLrtM9Gt-UgEv9xEfDa4ZnujVLoweUNP30&index=42) | # |
 
 
 ### Seminar List (year 1)
