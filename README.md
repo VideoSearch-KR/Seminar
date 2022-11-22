@@ -31,7 +31,7 @@ More information can be found on the [Link](https://docs.google.com/spreadsheets
 | 23 | Chung-Ang <br /> (Jongwon Choi) | [Distilling Audio-Visual Knowledge by Compositional Contrastive Learning](https://arxiv.org/abs/2104.10955) | 2022.10.31 | [YouTube](https://www.youtube.com/watch?v=0qOHZyZ7LGk&list=PLrtM9Gt-UgEv9xEfDa4ZnujVLoweUNP30&index=41) | # |
 | 24 | Chung-Ang <br /> (Yoonsik Cho) | [CLIP4Clip: An Empirical Study of CLIP for End to End Video Clip Retrieval](https://arxiv.org/abs/2104.08860) | 2022.11.07 | [YouTube](https://www.youtube.com/watch?v=qegvv31Qu-Y&list=PLrtM9Gt-UgEv9xEfDa4ZnujVLoweUNP30&index=42) | # |
 | 25 | University-of-Seoul <br /> (Kyungwoo Song) | [Scaling up Visual and Vison-Language Representation Learning with Noisy Text Supervision](https://arxiv.org/pdf/2102.05918.pdf)| 2022.11.14 | [YouTube](https://www.youtube.com/watch?v=gjBE69hBMSY&list=PLrtM9Gt-UgEv9xEfDa4ZnujVLoweUNP30&index=43) | [PDF](https://github.com/VideoSearch-KR/Seminar/blob/main/SeminarNote/20221007_Scaling%20Up%20Visual%20and%20Vision-Language%20Representation%20Learning%20With%20Noisy%20Text%20Supervision.pptx) |
-
+| 26 | Sejong <br /> (Cheol Jeong) | [Video graph transformer for video question answering](https://arxiv.org/abs/2207.05342) | 2022.11.22 | [YouTube](https://www.youtube.com/watch?v=cnUu9X4cigM&list=PLrtM9Gt-UgEv9xEfDa4ZnujVLoweUNP30&index=44) | [PDF](https://github.com/VideoSearch-KR/Seminar/blob/main/SeminarNote/20221122_Video%20graph%20transformer%20for%20video%20question%20answering.pdf) |
 
 ### Seminar List (year 1)
 | Week | Institute | Paper Title | Date | Video | PPT |
