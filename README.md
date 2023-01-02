@@ -36,6 +36,9 @@ More information can be found on the [Link](https://docs.google.com/spreadsheets
 | 28 | Gachon <br /> (Kiho Choi) | [Video Compression with CNN-based Post Processing](https://arxiv.org/abs/2009.07583) | 2022.12.05 | [YouTube](https://www.youtube.com/watch?v=tl4IZBi1vs8&list=PLrtM9Gt-UgEv9xEfDa4ZnujVLoweUNP30&index=46) | [PDF](https://github.com/VideoSearch-KR/Seminar/blob/main/SeminarNote/20221205_Video%20Compression%20with%20CNN-based%20Post.pdf) |
 | 29 | Gachon <br /> (Kiho Choi) | [Video Compression with CNN-based Post Processing](https://arxiv.org/abs/2009.07583) | 2022.12.05 | [YouTube](https://www.youtube.com/watch?v=tl4IZBi1vs8&list=PLrtM9Gt-UgEv9xEfDa4ZnujVLoweUNP30&index=46) | [PDF](https://github.com/VideoSearch-KR/Seminar/blob/main/SeminarNote/20221205_Video%20Compression%20with%20CNN-based%20Post.pdf) |
 | 30 | Sejong <br /> (Yukyung Choi) | [Motion Aware Self-Supervision for Generic Event Boundary Detection](https://arxiv.org/abs/2210.05574) | 2022.12.26 | [YouTube](https://www.youtube.com/watch?v=-xZVlBYjLF8&list=PLrtM9Gt-UgEv9xEfDa4ZnujVLoweUNP30&index=47) | # |
+| 31 | Chung-Ang <br /> (Jongwon Choi) | [Deep Animation Video Interpolation in the Wild](https://arxiv.org/abs/2104.02495) | 2023.01.02 | [YouTube](https://www.youtube.com/watch?v=T7yjmJrbcDM&list=PLrtM9Gt-UgEv9xEfDa4ZnujVLoweUNP30&index=48) | # |
+
+
 
 ### Seminar List (year 1)
 | Week | Institute | Paper Title | Date | Video | PPT |
