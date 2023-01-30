@@ -40,6 +40,7 @@ More information can be found on the [Link](https://docs.google.com/spreadsheets
 | 32 | Chung-Ang <br /> (Yoonsik Cho) | [X-CLIP: End-to-End Multi-grained Contrastive Learning for Video-Text Retrieval](https://arxiv.org/abs/2207.07285) | 2023.01.09 | [YouTube](https://www.youtube.com/watch?v=kg-b7T1ZUWQ&list=PLrtM9Gt-UgEv9xEfDa4ZnujVLoweUNP30&index=49) | # |
 | 33 | University-of-Seoul <br /> (Kyungwoo Song) | [Rethinking Generalization in Few-Shot Classification](https://arxiv.org/abs/2206.07267)| 2023.01.17 | [YouTube](https://www.youtube.com/watch?v=gjBE69hBMSY&list=PLrtM9Gt-UgEv9xEfDa4ZnujVLoweUNP30&index=43) | [PDF](https://github.com/VideoSearch-KR/Seminar/blob/main/SeminarNote/20221216_FewTRUE_changdaeoh.pdf) |
 | 34 | Sejong <br /> (Cheol Jeong) | [Less is More: ClipBERT for Video-and-Language Learning via Sparse Sampling](https://arxiv.org/abs/2102.06183) | 2023.01.25 | [YouTube](https://www.youtube.com/watch?v=1GkbE5lgW9k&list=PLrtM9Gt-UgEv9xEfDa4ZnujVLoweUNP30&index=51) | [PDF](https://github.com/VideoSearch-KR/Seminar/blob/main/SeminarNote/20230125_(Steve)%20ClipBERT_%20Video%20Seminar.pdf) |
+| 35 | Sejong <br /> (Jinyoung Lee) | [Deep Learning for Single Image Super-Resolution: A Brief Review](https://arxiv.org/abs/1808.03344) | 2023.01.30 | [YouTube](https://www.youtube.com/watch?v=ksUG-seminQ&list=PLrtM9Gt-UgEv9xEfDa4ZnujVLoweUNP30&index=52) | [PDF](https://github.com/VideoSearch-KR/Seminar/blob/main/SeminarNote/230130_Deep%20Learning%20for%20Single%20Image%20Super-Resolution.pdf) |
 
 
 ### Seminar List (year 1)
